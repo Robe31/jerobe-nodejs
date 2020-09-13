@@ -16,6 +16,6 @@ app.get('/Projects', (req, res) => {
     res.render('index', {title: 'My Projects', message: 'Things Im Working On'})
 });
 
-app.listen(3000);
+app.listen(80);
 
-console.log('Web Server is listening at port '+ (3000));
+console.log('Web Server is listening at port '+ (80));

@@ -16,6 +16,6 @@ app.get('/Projects', (req, res) => {
     res.render('index', {title: 'My Projects', message: 'Things Im Working On'})
 });
 
-app.listen(80);
+app.listen(443);
 
-console.log('Web Server is listening at port '+ (80));
+console.log('Web Server is listening at port '+ (443));

@@ -1,0 +1,24 @@
+{
+  "name": "jerobe-nodejs",
+  "version": "1.0.0",
+  "description": "jeroberrob server files",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robe31/jerobe-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robe31/jerobe-nodejs/issues"
+  },
+  "homepage": "https://github.com/Robe31/jerobe-nodejs#readme"
+}
